@@ -1,0 +1,1 @@
+Pong made in 16 bit asm using FASM for MS DOS. Made to illustrate the use of interrupts. Flickering can be removed by using video pages. Speed can be greatly improved by accessing to video memory instead of interrupts.
